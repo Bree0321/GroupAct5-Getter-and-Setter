@@ -1,6 +1,9 @@
 ANDROID GETTER AND SETTER
 =========================
 
+[![Aubrey Ocenar](https://miro.medium.com/v2/da:true/resize:fill:88:88/0*cHZfkTAAXEIzEvPC)](https://medium.com/@aubreyocenar)
+
+
 [Aubrey Ocenar](https://medium.com/@aubreyocenar)
 
 

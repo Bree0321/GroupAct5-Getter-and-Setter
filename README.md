@@ -1,10 +1,6 @@
 ANDROID GETTER AND SETTER
 =========================
 
-[![Jorimpablico](https://miro.medium.com/v2/da:true/resize:fill:88:88/0*cHZfkTAAXEIzEvPC)](https://medium.com/@jorimpablico2004?source=post_page-----16d2a04eff35--------------------------------)
-
-[Jorimpablico](https://medium.com/@jorimpablico2004?source=post_page-----16d2a04eff35--------------------------------)
-
 
 Group Activity No. 5
 

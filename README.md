@@ -4,7 +4,7 @@ ANDROID GETTER AND SETTER
 
 Group Activity No. 5
 
-[https://github.com/jpablico20/GroupAct5-Getter-and-Setter.git](https://github.com/jpablico20/GroupAct5-Getter-and-Setter.git)
+[https://github.com/Bree0321/GroupAct5-Getter-and-Setter](https://github.com/Bree0321/GroupAct5-Getter-and-Setter)
 
 Home Page
 ---------

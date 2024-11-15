@@ -1,6 +1,8 @@
 ANDROID GETTER AND SETTER
 =========================
 
+[Aubrey Ocenar](https://medium.com/@aubreyocenar)
+
 
 Group Activity No. 5
 

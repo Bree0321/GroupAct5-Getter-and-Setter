@@ -1,8 +1,6 @@
 ANDROID GETTER AND SETTER
 =========================
 
-[Aubrey Ocenar](https://medium.com/@aubreyocenar)
-
 Documentation:
 [https://medium.com/@aubreyocenar/android-getter-and-setter-cde18dd685c7](https://medium.com/@aubreyocenar/android-getter-and-setter-cde18dd685c7)
 

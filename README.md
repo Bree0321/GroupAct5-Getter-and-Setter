@@ -1,10 +1,10 @@
 ANDROID GETTER AND SETTER
 =========================
 
-[![Aubrey Ocenar](https://miro.medium.com/v2/da:true/resize:fill:88:88/0*cHZfkTAAXEIzEvPC)](https://medium.com/@aubreyocenar)
-
-
 [Aubrey Ocenar](https://medium.com/@aubreyocenar)
+
+Documentation:
+[https://medium.com/@aubreyocenar/android-getter-and-setter-cde18dd685c7](https://medium.com/@aubreyocenar/android-getter-and-setter-cde18dd685c7)
 
 
 Group Activity No. 5
